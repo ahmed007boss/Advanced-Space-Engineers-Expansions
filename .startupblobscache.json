@@ -12,15 +12,6 @@
         "Blobs": [
           {
             "Instance": {
-              "$Type": "VRage:Keen.VRage.Render.Models.ModelMeshParts",
-              "MeshParts": [
-                "PBROres"
-              ]
-            },
-            "ExtractorVersion": 1
-          },
-          {
-            "Instance": {
               "$Type": "VRage:Keen.VRage.Core.Model.AssetModelMetadata",
               "Bones": [
                 {
@@ -135,58 +126,6 @@
               "GeometryDataAsset": "{G}bb11aaa5-0ae5-4a94-a3e7-90caaf5547fc"
             },
             "ExtractorVersion": 1
-          },
-          {
-            "Instance": {
-              "$Type": "Game2:Keen.Game2.Simulation.GameSystems.BlockDataGenerators.GeneratedBlockData",
-              "Occupancy": {
-                "CellGroups": [
-                  {
-                    "Min": {
-                      "X": -1,
-                      "Y": 0,
-                      "Z": 0
-                    },
-                    "Max": {
-                      "X": 0,
-                      "Y": 1,
-                      "Z": 1
-                    }
-                  }
-                ],
-                "Bounds": {
-                  "Min": {
-                    "X": -1,
-                    "Y": 0,
-                    "Z": 0
-                  },
-                  "Max": {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 1
-                  }
-                }
-              },
-              "MountPoints": null,
-              "MountPointSurfels": {
-                "Forward": [],
-                "Backward": [],
-                "Left": [],
-                "Right": [],
-                "Up": [],
-                "Down": []
-              },
-              "MountPointsDebugData": null
-            },
-            "ExtractorVersion": 0
-          },
-          {
-            "Instance": {
-              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
-              "Xx64Hash": 4780357910703951660,
-              "FileLength": 76432
-            },
-            "ExtractorVersion": 0
           }
         ]
       },
@@ -681,19 +620,6 @@
           }
         ]
       },
-      "d1a8677c-af6b-4d23-af5c-a170f2029a8e": {
-        "FileHash": "BPI+Ftb0b7rQp/LHGYQBGA==",
-        "Blobs": [
-          {
-            "Instance": {
-              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
-              "Xx64Hash": 11039911366602914443,
-              "FileLength": 477
-            },
-            "ExtractorVersion": 0
-          }
-        ]
-      },
       "4e24da3a-b061-40b8-b5aa-4ed09a91434d": {
         "FileHash": "cZGlzIAjvWfuhOl5qryefg==",
         "Blobs": [
@@ -1019,13 +945,6 @@
         "Blobs": [
           {
             "Instance": {
-              "$Type": "VRage:Keen.VRage.Core.Utils.GraphicsMetadata",
-              "GraphicsType": "Bitmap"
-            },
-            "ExtractorVersion": 1
-          },
-          {
-            "Instance": {
               "$Type": "VRage:Keen.VRage.Core.Utils.ImageMetadata",
               "IsValid": true,
               "Dimensions": {
@@ -1201,27 +1120,12 @@
               "MetadataJPG": null
             },
             "ExtractorVersion": 1
-          },
-          {
-            "Instance": {
-              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
-              "Xx64Hash": 0,
-              "FileLength": 0
-            },
-            "ExtractorVersion": 0
           }
         ]
       },
       "e978add3-1b42-4820-87a0-d744920e3c3d": {
         "FileHash": "wZx7Sv+dDU2hbMdxb0COmQ==",
         "Blobs": [
-          {
-            "Instance": {
-              "$Type": "VRage:Keen.VRage.Core.Utils.GraphicsMetadata",
-              "GraphicsType": "Bitmap"
-            },
-            "ExtractorVersion": 1
-          },
           {
             "Instance": {
               "$Type": "VRage:Keen.VRage.Core.Utils.ImageMetadata",
@@ -1382,27 +1286,12 @@
               "MetadataJPG": null
             },
             "ExtractorVersion": 1
-          },
-          {
-            "Instance": {
-              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
-              "Xx64Hash": 0,
-              "FileLength": 0
-            },
-            "ExtractorVersion": 0
           }
         ]
       },
       "1aee545a-f908-4165-93ff-38f235346b24": {
         "FileHash": "37ysd77qaujFz+wBye9o1A==",
         "Blobs": [
-          {
-            "Instance": {
-              "$Type": "VRage:Keen.VRage.Core.Utils.GraphicsMetadata",
-              "GraphicsType": "Bitmap"
-            },
-            "ExtractorVersion": 1
-          },
           {
             "Instance": {
               "$Type": "VRage:Keen.VRage.Core.Utils.ImageMetadata",
@@ -1580,14 +1469,6 @@
               "MetadataJPG": null
             },
             "ExtractorVersion": 1
-          },
-          {
-            "Instance": {
-              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
-              "Xx64Hash": 0,
-              "FileLength": 0
-            },
-            "ExtractorVersion": 0
           }
         ]
       }
