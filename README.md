@@ -42,18 +42,18 @@ For more details on each area of expantion including mechanics, progression, and
 
 ## 🎯 Overall Purpose
 
-ASEE² transforms *Space Engineers 2* from an open sandbox into a **purpose-driven universe**—not by limiting freedom, but by giving your creations **meaningful context**.
+ASEE² adds structure to *Space Engineers 2* without taking away freedom. Instead of building for its own sake, players have clear **motives** to explore, expand, and improve—whether playing alone or with others.
 
-You now have:
-- A reason to build smarter factories (6-tier progression)  
-- A reason to explore the unknown (for unique resources & data)  
-- A reason to master deadly worlds (for bonuses or transformation)  
-- A reason to research (to forge your faction’s tech identity)  
-- A reason to cooperate—or compete—with others  
+The mod gives the player:
+- A motive to build more complex factories, not just bigger ones—through a 6-tier industrial progression  
+- A motive to explore new planets and sectors—to find unique ores, scientific data, and strategic advantages  
+- A motive to operate in dangerous environments—because high-risk zones offer better resources and grid bonuses  
+- A motive to run research missions—since collected data unlocks faction-specific tech paths  
+- A motive to work with or against other players—over scarce resources, exclusive data, or control of key worlds  
 
-All systems scale seamlessly from **solo play** to **large multiplayer sessions**, with server-configurable difficulty and effort multipliers.
+All systems include **server-adjustable settings**, so effort scales with group size: solo players can make steady progress, while large groups face challenges that require coordination and shared infrastructure.
 
-The result? A living universe where every engineer leaves a legacy—not just of blocks, but of **vision, discovery, and progress**.
+The goal isn’t to replace sandbox freedom—but to give it direction. Every base, ship, or machine built serves a purpose in a larger, evolving world.
 
 ---
 
