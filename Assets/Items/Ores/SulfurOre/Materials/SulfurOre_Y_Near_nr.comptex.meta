@@ -1,0 +1,52 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "2.0.2.29"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Metafiles.MetaData",
+  "$Value": {
+    "AssetID": "e978add3-1b42-4820-87a0-d744920e3c3d",
+    "InternalItems": [
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.FileInfoMetaDataItem",
+        "FileHash": "ImXFdotcjUlYHwOyXi9WzA=="
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.AssetProcessing.AssetProcessingMetaDataItem",
+        "ProcessorInfo": {
+          "Version": 5,
+          "Identifier": "P_TEXTURE"
+        },
+        "ContentFiles": {
+          "MainOutput": {
+            "FileHash": "wZx7Sv+dDU2hbMdxb0COmQ==",
+            "FileName": "SulfurOre_Y_Near_nr.dds"
+          },
+          "AdditionalOutputs": []
+        },
+        "Problems": [],
+        "DependenciesHashes": [
+          {
+            "Guid": "1e1b6a2a-7941-4cf7-939e-76f5e723b5e4",
+            "Hash": "hjGQVCtUSzEQPVBi5qVLsw=="
+          },
+          {
+            "Guid": "77322ae3-8063-4d2e-b22d-c36ca3671243",
+            "Hash": "2dtrvcYkdXR69Jd6Qc4pww=="
+          },
+          {
+            "Guid": "91156de7-286c-4574-8b47-7ef12981f5a6",
+            "Hash": "M90rBUzk5+cF4fqX/kUqqw=="
+          }
+        ],
+        "AssetHash": "ImXFdotcjUlYHwOyXi9WzA==",
+        "OverrideDetachedState": false,
+        "IgnoredErrors": "None"
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.DefinitionFlagsMetadata",
+        "Flags": "None"
+      }
+    ]
+  }
+}

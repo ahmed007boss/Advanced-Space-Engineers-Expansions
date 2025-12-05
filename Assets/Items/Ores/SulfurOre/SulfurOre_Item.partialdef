@@ -1,0 +1,22 @@
+{
+  "$Bundles": {
+    "Game2": "2.0.2.29",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "2.0.2.29"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.PartialDefinitionDiff",
+  "$Value": {
+    "BaseDefinition": "cb651320-76fb-413d-bdde-c46f35b7180d",
+    "PartialDefinitionKind": "Copy",
+    "Manipulator": {
+      "Guid": "d1a8677c-af6b-4d23-af5c-a170f2029a8e",
+      "DisplayName": "SulfurOre",
+      "Description": "Bright yellow, crumbly crystals. Often found near vents or volcanic zones. Emits faint odor particles when mined.",
+      "Icon": "{G}ae3f898b-ea19-43a7-a406-f9e60778bdbf",
+      "MassPerUnit": 0.2,
+      "DefaultMetaData": null
+    },
+    "DefinitionType": "Game2:Keen.Game2.Simulation.WorldObjects.Items.ItemDefinition",
+    "PriorityOverride": false
+  }
+}

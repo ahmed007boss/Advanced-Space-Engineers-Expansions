@@ -1,0 +1,81 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "2.0.2.29"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Metafiles.MetaData",
+  "$Value": {
+    "AssetID": "5b337528-d029-4c43-a8e0-fd2697f12181",
+    "InternalItems": [
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.FileInfoMetaDataItem",
+        "FileHash": "gpPKjT8DGTmCVil4jz/SFQ=="
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.AssetProcessing.AssetProcessingMetaDataItem",
+        "ProcessorInfo": {
+          "Version": 36,
+          "Identifier": "P_MODEL"
+        },
+        "ContentFiles": {
+          "MainOutput": {
+            "FileHash": "/wdkAH/Z3rfDnvsWIqCbqQ==",
+            "FileName": "SulfurOre_50.mwm"
+          },
+          "AdditionalOutputs": [
+            {
+              "FileHash": "fOYcOQjABLHN/wdH66p1+w==",
+              "FileName": "SulfurOre_50_LOD0.mwm",
+              "AssignedGuid": "bb11aaa5-0ae5-4a94-a3e7-90caaf5547fc"
+            },
+            {
+              "FileHash": "YPqUwds2OOhzZR5t/1ybPg==",
+              "FileName": "SulfurOre_50_LOD1.mwm",
+              "AssignedGuid": "e18af88d-4c74-433e-85e8-f7a07d1a2d5f"
+            },
+            {
+              "FileHash": "6idxhaMtl1TRKk7jVXXc+w==",
+              "FileName": "SulfurOre_50_LOD2.mwm",
+              "AssignedGuid": "fd40e833-544f-4826-83ef-26e29ce80ac8"
+            },
+            {
+              "FileHash": "NbBLOKbcqJt23YTR4zDMMA==",
+              "FileName": "SulfurOre_50_LOD3.mwm",
+              "AssignedGuid": "64947b9c-e7bf-44b7-8fdc-f4df6b71204c"
+            }
+          ]
+        },
+        "Problems": [],
+        "DependenciesHashes": [
+          {
+            "Guid": "0892b376-273f-4cb8-bf4a-fc67f3045ad5",
+            "Hash": "P9NcobTbO0JGBnO6llWl1Q=="
+          },
+          {
+            "Guid": "64947b9c-e7bf-44b7-8fdc-f4df6b71204c",
+            "Hash": "v3cn2JaooGmqavMCxPtrnA=="
+          },
+          {
+            "Guid": "bb11aaa5-0ae5-4a94-a3e7-90caaf5547fc",
+            "Hash": "wN0SG+PBwZHLOiLJ9JJS0g=="
+          },
+          {
+            "Guid": "e18af88d-4c74-433e-85e8-f7a07d1a2d5f",
+            "Hash": "66A6Bwp46e649X6iiyfBsQ=="
+          },
+          {
+            "Guid": "fd40e833-544f-4826-83ef-26e29ce80ac8",
+            "Hash": "i7BbHaXGfTKhEq9SQMVoAQ=="
+          }
+        ],
+        "AssetHash": "gpPKjT8DGTmCVil4jz/SFQ==",
+        "OverrideDetachedState": false,
+        "IgnoredErrors": "None"
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.DefinitionFlagsMetadata",
+        "Flags": "None"
+      }
+    ]
+  }
+}
