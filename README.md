@@ -15,11 +15,9 @@ In multiplayer, ASEE² creates natural **cooperation and competition** through:
 - **Unique planetary features** that players can reshape in different ways—each approach reflecting their playstyle and needs, which naturally leads to conflict or collaboration  
 - **Exclusive technologies** that allow each player or faction to develop their own **technological identity**
 
-All progression systems will be **server-adjustable**—admins can scale the effort required for research, terraforming, industrial output, and other major goals based on expected player count. This ensures solo players can make meaningful progress without excessive grind, while larger groups face challenges that encourage coordination and shared effort.
+All progression systems will be **server-adjustable** admins can scale the effort required for research, terraforming, industrial output, and other major goals based on expected player count. This ensures solo players can make meaningful progress without excessive grind, while larger groups face challenges that encourage coordination and shared effort.
 
-Everything—from mining to planetary engineering—is structured as a **6-tier progression ladder**, where each tier unlocks new challenges, capabilities, and strategic depth.
-
-> ✨ **Note**: Planet features, hazards, and resources described below are *examples* of a flexible, future-ready system designed for easy expansion.
+Everything from mining to planetary engineering is structured as a **6-tier progression ladder**, where each tier unlocks new challenges, capabilities, and strategic depth.
 
 ---
 
@@ -42,18 +40,18 @@ For more details on each area of expantion including mechanics, progression, and
 
 ## 🎯 Overall Purpose
 
-ASEE² adds structure to *Space Engineers 2* without taking away freedom. Instead of building for its own sake, players have clear **motives** to explore, expand, and improve—whether playing alone or with others.
+ASEE² adds structure to *Space Engineers 2* without taking away freedom. Instead of building for its own sake, players have clear **motives** to explore, expand, and improvewhether playing alone or with others.
 
 The mod gives the player:
-- A motive to build more complex factories, not just bigger ones—through a 6-tier industrial progression  
-- A motive to explore new planets and sectors—to find unique ores, scientific data, and strategic advantages  
-- A motive to operate in dangerous environments—because high-risk zones offer better resources and grid bonuses  
-- A motive to run research missions—since collected data unlocks faction-specific tech paths  
-- A motive to work with or against other players—over scarce resources, exclusive data, or control of key worlds  
+- A motive to build more complex factories, not just bigger onesthrough a 6-tier industrial progression  
+- A motive to explore new planets and sectorsto find unique ores, scientific data, and strategic advantages  
+- A motive to operate in dangerous environmentsbecause high-risk zones offer better resources and grid bonuses  
+- A motive to run research missionssince collected data unlocks faction-specific tech paths  
+- A motive to work with or against other playersover scarce resources, exclusive data, or control of key worlds  
 
 All systems include **server-adjustable settings**, so effort scales with group size: solo players can make steady progress, while large groups face challenges that require coordination and shared infrastructure.
 
-The goal isn’t to replace sandbox freedom—but to give it direction. Every base, ship, or machine built serves a purpose in a larger, evolving world.
+The goal isn’t to replace sandbox freedombut to give it direction. Every base, ship, or machine built serves a purpose in a larger, evolving world.
 
 ---
 
