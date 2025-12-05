@@ -66,7 +66,7 @@ We’re actively recruiting passionate contributors to bring this mod to life. N
 
 ### To bring this mod to life, the following roles are needed:
 - **C# Developers** to build gameplay systems, progression logic, contracts, and research mechanics  
-- **3D Modelers** to create new machines, suits, components, and environmental props  
+- **3D Modelers** to create new blocks   
 - **Technical Artists / Texture Artists** for PBR materials, UI elements, and visual effects  
 - **Game Designers** to balance planetary tiers, progression pacing, and multiplayer dynamics  
 - **Testers & Community Managers** once development begins  
