@@ -1,0 +1,31 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "2.0.2.29"
+  },
+  "$Type": "VRage:Keen.VRage.ModHUB.Models.ModProject",
+  "$Value": {
+    "Id": {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "ServiceName": ""
+    },
+    "ProjectID": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "ModId": null,
+      "ServiceId": null
+    },
+    "Version": "0.0",
+    "BaseMetadata": null,
+    "Name": "ASEE² [ALPHA]",
+    "Summary": "ASEE² adds meaningful progression to Space Engineers 2 with 6-tier planetary hazards, multiple ore rarity, modular survival systems, deep industry chains, terraforming/xenoforming, and research-driven contracts—all scalable for solo or multiplayer.",
+    "Tags": [
+      "UGCModTypeTag",
+      "ModTagBlock",
+      "ModTagCharacter",
+      "ModTagArmor",
+      "ModTagMaterial",
+      "ModTagOther"
+    ],
+    "ProjectFile": "ASEE².vrgproj"
+  }
+}

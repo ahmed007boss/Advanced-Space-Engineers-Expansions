@@ -1,0 +1,15 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "2.0.2.29"
+  },
+  "$Type": "VRage:Keen.VRage.Core.Render.Materials.Templates.PBRMaterialDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "318942e2-62c7-461c-9bf3-0687a49ec851",
+    "PinTextures": false,
+    "ColorMetalTexture": "{G}83a63b8f-13da-40e9-a531-b4d379d34860",
+    "NormalRoughnessTexture": "{G}e978add3-1b42-4820-87a0-d744920e3c3d",
+    "ExtensionsTexture": "{G}1aee545a-f908-4165-93ff-38f235346b24",
+    "EmissivityMultiplier": 0
+  }
+}

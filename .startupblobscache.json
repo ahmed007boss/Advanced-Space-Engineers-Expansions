@@ -1,0 +1,1596 @@
+{
+  "$Bundles": {
+    "Game2": "2.0.2.29",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "2.0.2.29"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.Startup.StartupBlobsCache",
+  "$Value": {
+    "AssetBlobs": {
+      "5b337528-d029-4c43-a8e0-fd2697f12181": {
+        "FileHash": "/wdkAH/Z3rfDnvsWIqCbqQ==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Render.Models.ModelMeshParts",
+              "MeshParts": [
+                "PBROres"
+              ]
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Core.Model.AssetModelMetadata",
+              "Bones": [
+                {
+                  "Index": 0,
+                  "Name": "RootNode",
+                  "Parent": -1,
+                  "Transform": {
+                    "M11": 1,
+                    "M12": 0,
+                    "M13": 0,
+                    "M14": 0,
+                    "M21": 0,
+                    "M22": 1,
+                    "M23": 0,
+                    "M24": 0,
+                    "M31": 0,
+                    "M32": 0,
+                    "M33": 1,
+                    "M34": 0,
+                    "M41": 0,
+                    "M42": 0,
+                    "M43": 0,
+                    "M44": 1,
+                    "Translation": {
+                      "X": 0,
+                      "Y": 0,
+                      "Z": 0
+                    }
+                  }
+                },
+                {
+                  "Index": 1,
+                  "Name": ")re_50",
+                  "Parent": 0,
+                  "Transform": {
+                    "M11": 1,
+                    "M12": 0,
+                    "M13": 0,
+                    "M14": 0,
+                    "M21": 0,
+                    "M22": 1,
+                    "M23": 0,
+                    "M24": 0,
+                    "M31": 0,
+                    "M32": 0,
+                    "M33": 1,
+                    "M34": 0,
+                    "M41": 0,
+                    "M42": 0,
+                    "M43": 0,
+                    "M44": 1,
+                    "Translation": {
+                      "X": 0,
+                      "Y": 0,
+                      "Z": 0
+                    }
+                  }
+                }
+              ],
+              "LODDescriptors": [
+                {
+                  "Distance": 4.9604,
+                  "ModelHandle": "{G}e18af88d-4c74-433e-85e8-f7a07d1a2d5f",
+                  "RenderQuality": null,
+                  "RenderQualityList": null,
+                  "BonesCount": 2
+                },
+                {
+                  "Distance": 9.9208,
+                  "ModelHandle": "{G}fd40e833-544f-4826-83ef-26e29ce80ac8",
+                  "RenderQuality": null,
+                  "RenderQualityList": null,
+                  "BonesCount": 2
+                },
+                {
+                  "Distance": 19.8416,
+                  "ModelHandle": "{G}64947b9c-e7bf-44b7-8fdc-f4df6b71204c",
+                  "RenderQuality": null,
+                  "RenderQualityList": null,
+                  "BonesCount": 2
+                }
+              ],
+              "IsSkinned": false,
+              "ModelType": "Default",
+              "BoundingBox": {
+                "Min": {
+                  "X": -0.375,
+                  "Y": -0.12681869,
+                  "Z": -0.125
+                },
+                "Max": {
+                  "X": 0.123130724,
+                  "Y": 0.3624385,
+                  "Z": 0.35130465
+                }
+              },
+              "BoundingSphere": {
+                "Center": {
+                  "X": -0.12593463,
+                  "Y": 0.11780991,
+                  "Z": 0.113152325
+                },
+                "Radius": 0.28579262
+              },
+              "MaterialAssignment": [
+                {
+                  "$Key": "PBROres",
+                  "$Value": "318942e2-62c7-461c-9bf3-0687a49ec851"
+                }
+              ],
+              "MaterialStateOverrides": {},
+              "GeometryDataAsset": "{G}bb11aaa5-0ae5-4a94-a3e7-90caaf5547fc"
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "Game2:Keen.Game2.Simulation.GameSystems.BlockDataGenerators.GeneratedBlockData",
+              "Occupancy": {
+                "CellGroups": [
+                  {
+                    "Min": {
+                      "X": -1,
+                      "Y": 0,
+                      "Z": 0
+                    },
+                    "Max": {
+                      "X": 0,
+                      "Y": 1,
+                      "Z": 1
+                    }
+                  }
+                ],
+                "Bounds": {
+                  "Min": {
+                    "X": -1,
+                    "Y": 0,
+                    "Z": 0
+                  },
+                  "Max": {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1
+                  }
+                }
+              },
+              "MountPoints": null,
+              "MountPointSurfels": {
+                "Forward": [],
+                "Backward": [],
+                "Left": [],
+                "Right": [],
+                "Up": [],
+                "Down": []
+              },
+              "MountPointsDebugData": null
+            },
+            "ExtractorVersion": 0
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 4780357910703951660,
+              "FileLength": 76432
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "ae3f898b-ea19-43a7-a406-f9e60778bdbf": {
+        "FileHash": "jQ5SlINEW1YJ+fjgxjnDYw==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Core.Utils.GraphicsMetadata",
+              "GraphicsType": "Bitmap"
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Core.Utils.ImageMetadata",
+              "IsValid": true,
+              "Dimensions": {
+                "X": 1024,
+                "Y": 1024
+              },
+              "FileMips": [
+                {
+                  "Resolution": {
+                    "X": 1024,
+                    "Y": 1024
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 512,
+                    "Y": 512
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 256,
+                    "Y": 256
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 128,
+                    "Y": 128
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 64,
+                    "Y": 64
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 32,
+                    "Y": 32
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 16,
+                    "Y": 16
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 8,
+                    "Y": 8
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 4,
+                    "Y": 4
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 2,
+                    "Y": 2
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 1,
+                    "Y": 1
+                  },
+                  "Depth": 1
+                }
+              ],
+              "MetadataPNG": null,
+              "MetadataDDS": {
+                "DxFormat": 29,
+                "ArraySize": 1,
+                "Depth": 1,
+                "MipLevels": 11,
+                "DxDimension": 0,
+                "HasDX10Header": true,
+                "CachedMips": [
+                  {
+                    "CachedImageDataOffset": 0,
+                    "Resolution": {
+                      "X": 32,
+                      "Y": 32
+                    },
+                    "Depth": 1,
+                    "RowPitch": 128,
+                    "FacePitch": 4096
+                  },
+                  {
+                    "CachedImageDataOffset": 4096,
+                    "Resolution": {
+                      "X": 16,
+                      "Y": 16
+                    },
+                    "Depth": 1,
+                    "RowPitch": 64,
+                    "FacePitch": 1024
+                  },
+                  {
+                    "CachedImageDataOffset": 5120,
+                    "Resolution": {
+                      "X": 8,
+                      "Y": 8
+                    },
+                    "Depth": 1,
+                    "RowPitch": 32,
+                    "FacePitch": 256
+                  },
+                  {
+                    "CachedImageDataOffset": 5376,
+                    "Resolution": {
+                      "X": 4,
+                      "Y": 4
+                    },
+                    "Depth": 1,
+                    "RowPitch": 16,
+                    "FacePitch": 64
+                  },
+                  {
+                    "CachedImageDataOffset": 5440,
+                    "Resolution": {
+                      "X": 2,
+                      "Y": 2
+                    },
+                    "Depth": 1,
+                    "RowPitch": 8,
+                    "FacePitch": 16
+                  },
+                  {
+                    "CachedImageDataOffset": 5456,
+                    "Resolution": {
+                      "X": 1,
+                      "Y": 1
+                    },
+                    "Depth": 1,
+                    "RowPitch": 4,
+                    "FacePitch": 4
+                  }
+                ],
+                "CachedImageData": "AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AQEB/wEBAf8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/ExMT/6urq//i4uH/5+fn/8jIyP9aWlr/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP+pqan/8PDw/5qbm/+SkpL/0NDQ/5mamv8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AQEB/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/9PT0//AwMD/AAAA/wAAAP8EBAT/AgIC/wAAAP8AAAD/AQEB/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/tLS0//X19f+enp3/Li4u/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8BAQD/Ix4F/19WJf9nXB7/DgsC/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/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AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/BQUF/5OTk/+enp7/LCws/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/4yMjP+vsLD/hISE/1BQUP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP9gYGD/1tbW/6Cgn/8KCgr/AAAA/wAAAP8AAAD/aF4q/5qMRP+cjkP/RjkV/wAAAP8AAAD/AAAA/wAAAP8AAAD/AQEB/xoaGv+0tLT/lJSU/0E7GP+Th0H/rJdJ/825cP/NunT/yrJa/66HRv9xWyL/NC4Q/wAAAP8AAAD/AAAA/4iIiP/BwcH/0NDP/6yniv/Yyn//0Lli/824df/Mt3f/xq9r/8OnYP+3nUL/qY1B/4J0Pf8AAAD/AAAA/wAAAP8AAAD/LCws/352Sv/VxHT/1cF8/9K/f//Ls2H/x65i/7eZPv+zjTD/rINK/518TP9hUif/AAAA/wAAAP8AAAD/AAAA/wAAAP/Dtm3/2smA/8+3Y//Ls2b/wKJQ/7yeTf+eaRn/klkh/35OJv+XfUz/RDsd/wAAAP8AAAD/AAAA/wAAAP8HBQL/0MF0/9K9aP/AlT7/yLN+/7+nV/+pfjT/h1co/3JEI/93Rxr/lHtD/1FJJ/8AAAD/AAAA/wAAAP8AAAD/KyYU/9TDgP/NtWP/xK5w/7ygT/+fbx3/jGAz/2pJKP9hQR7/eFkg/4RqL/8jHQr/AAAA/wAAAP8AAAD/AAAA/1RMKf/Ms03/to89/6uEJ/+VYyr/bDUT/2M7Ff9uXj3/dGEu/3plNf8bEQL/AAAA/wAAAP8AAAD/AAAA/wAAAP+AdTr/wJor/55eH/+CSh7/c04f/2RGHf9YPRz/Y0Ua/4VwOf9JOxP/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/Rj0N/5tvFf+SVBn/d04e/2dFGf9YPBr/XEIa/25SJf9WRh3/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8fFwH/UjIG/0YoC/8lFAT/LhwG/yUZBv8UDAH/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8BAQH/b29v/xMTE/8AAAD/AAAA/wAAAP8AAAD/AAAA/1dXV/+urq7/KCgo/wAAAP9fVif/WE8i/wAAAP8AAAD/RkZG/6urq/+im3r/uaZb/8u2cv+9oFL/fWox/wAAAP8AAAD/enJG/9XBdf/Ksmf/t5ZH/55yM/99Zjv/AAAA/wAAAP+bj1n/ya5h/7mdWP+MYi7/cUof/25bLv8AAAD/AAAA/6KKOf+icyr/eE0f/2NIJv9yXy7/CQUB/wAAAP8AAAD/WUEK/21CFP9LMRH/TDcV/yohCv8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/cnJy/xQUFP9BOhj/AAAA/3FvZv/Arm3/uJpT/1pKJf9zZjX/qolH/3ZWKf84LRT/LB4D/0MoCv8rHwn/AAAA/4B4X/9vXS//cVss/0YzFv9sXTv/",
+                "CachedFileSize": 5592552
+              },
+              "MetadataJPG": null
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 0,
+              "FileLength": 0
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "e18af88d-4c74-433e-85e8-f7a07d1a2d5f": {
+        "FileHash": "YPqUwds2OOhzZR5t/1ybPg==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Render.Models.ModelMeshParts",
+              "MeshParts": []
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Core.Model.AssetModelMetadata",
+              "Bones": [
+                {
+                  "Index": 0,
+                  "Name": "RootNode",
+                  "Parent": -1,
+                  "Transform": {
+                    "M11": 1,
+                    "M12": 0,
+                    "M13": 0,
+                    "M14": 0,
+                    "M21": 0,
+                    "M22": 1,
+                    "M23": 0,
+                    "M24": 0,
+                    "M31": 0,
+                    "M32": 0,
+                    "M33": 1,
+                    "M34": 0,
+                    "M41": 0,
+                    "M42": 0,
+                    "M43": 0,
+                    "M44": 1,
+                    "Translation": {
+                      "X": 0,
+                      "Y": 0,
+                      "Z": 0
+                    }
+                  }
+                },
+                {
+                  "Index": 1,
+                  "Name": ")re_50",
+                  "Parent": 0,
+                  "Transform": {
+                    "M11": 1,
+                    "M12": 0,
+                    "M13": 0,
+                    "M14": 0,
+                    "M21": 0,
+                    "M22": 1,
+                    "M23": 0,
+                    "M24": 0,
+                    "M31": 0,
+                    "M32": 0,
+                    "M33": 1,
+                    "M34": 0,
+                    "M41": 0,
+                    "M42": 0,
+                    "M43": 0,
+                    "M44": 1,
+                    "Translation": {
+                      "X": 0,
+                      "Y": 0,
+                      "Z": 0
+                    }
+                  }
+                }
+              ],
+              "LODDescriptors": [],
+              "IsSkinned": false,
+              "ModelType": "Default",
+              "BoundingBox": {
+                "Min": {
+                  "X": -0.37548622,
+                  "Y": -0.12728098,
+                  "Z": -0.12541194
+                },
+                "Max": {
+                  "X": 0.1234529,
+                  "Y": 0.3627414,
+                  "Z": 0.35199934
+                }
+              },
+              "BoundingSphere": {
+                "Center": {
+                  "X": -0.12601666,
+                  "Y": 0.117730215,
+                  "Z": 0.1132937
+                },
+                "Radius": 0.28659073
+              },
+              "MaterialAssignment": [],
+              "MaterialStateOverrides": {},
+              "GeometryDataAsset": null
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "Game2:Keen.Game2.Simulation.GameSystems.BlockDataGenerators.GeneratedBlockData",
+              "Occupancy": {
+                "CellGroups": [],
+                "Bounds": {
+                  "Min": {
+                    "X": 2147483647,
+                    "Y": 2147483647,
+                    "Z": 2147483647
+                  },
+                  "Max": {
+                    "X": -2147483648,
+                    "Y": -2147483648,
+                    "Z": -2147483648
+                  }
+                }
+              },
+              "MountPoints": null,
+              "MountPointSurfels": {},
+              "MountPointsDebugData": null
+            },
+            "ExtractorVersion": 0
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 692857266907755041,
+              "FileLength": 51405
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "bb11aaa5-0ae5-4a94-a3e7-90caaf5547fc": {
+        "FileHash": "fOYcOQjABLHN/wdH66p1+w==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Render.Models.ModelMeshParts",
+              "MeshParts": []
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Core.Model.AssetModelMetadata",
+              "Bones": [
+                {
+                  "Index": 0,
+                  "Name": "RootNode",
+                  "Parent": -1,
+                  "Transform": {
+                    "M11": 1,
+                    "M12": 0,
+                    "M13": 0,
+                    "M14": 0,
+                    "M21": 0,
+                    "M22": 1,
+                    "M23": 0,
+                    "M24": 0,
+                    "M31": 0,
+                    "M32": 0,
+                    "M33": 1,
+                    "M34": 0,
+                    "M41": 0,
+                    "M42": 0,
+                    "M43": 0,
+                    "M44": 1,
+                    "Translation": {
+                      "X": 0,
+                      "Y": 0,
+                      "Z": 0
+                    }
+                  }
+                },
+                {
+                  "Index": 1,
+                  "Name": ")re_50",
+                  "Parent": 0,
+                  "Transform": {
+                    "M11": 1,
+                    "M12": 0,
+                    "M13": 0,
+                    "M14": 0,
+                    "M21": 0,
+                    "M22": 1,
+                    "M23": 0,
+                    "M24": 0,
+                    "M31": 0,
+                    "M32": 0,
+                    "M33": 1,
+                    "M34": 0,
+                    "M41": 0,
+                    "M42": 0,
+                    "M43": 0,
+                    "M44": 1,
+                    "Translation": {
+                      "X": 0,
+                      "Y": 0,
+                      "Z": 0
+                    }
+                  }
+                }
+              ],
+              "LODDescriptors": [],
+              "IsSkinned": false,
+              "ModelType": "Default",
+              "BoundingBox": {
+                "Min": {
+                  "X": -0.375,
+                  "Y": -0.12681869,
+                  "Z": -0.125
+                },
+                "Max": {
+                  "X": 0.123130724,
+                  "Y": 0.3624385,
+                  "Z": 0.35130465
+                }
+              },
+              "BoundingSphere": {
+                "Center": {
+                  "X": -0.12593463,
+                  "Y": 0.11780991,
+                  "Z": 0.113152325
+                },
+                "Radius": 0.28579262
+              },
+              "MaterialAssignment": [],
+              "MaterialStateOverrides": {},
+              "GeometryDataAsset": null
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "Game2:Keen.Game2.Simulation.GameSystems.BlockDataGenerators.GeneratedBlockData",
+              "Occupancy": {
+                "CellGroups": [],
+                "Bounds": {
+                  "Min": {
+                    "X": 2147483647,
+                    "Y": 2147483647,
+                    "Z": 2147483647
+                  },
+                  "Max": {
+                    "X": -2147483648,
+                    "Y": -2147483648,
+                    "Z": -2147483648
+                  }
+                }
+              },
+              "MountPoints": null,
+              "MountPointSurfels": {},
+              "MountPointsDebugData": null
+            },
+            "ExtractorVersion": 0
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 15092521252503930882,
+              "FileLength": 120165
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "b2f873e3-2e3c-402b-972d-4814aabc4101": {
+        "FileHash": "Yd62TzJEFeJySj5d8PU6fQ==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 15990116016216676413,
+              "FileLength": 328
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "318942e2-62c7-461c-9bf3-0687a49ec851": {
+        "FileHash": "xRislRQlWdShwMf686nqHg==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 14841812391355777647,
+              "FileLength": 528
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "e82cfd39-6147-4700-8a21-a30dda5d4730": {
+        "FileHash": "054WwQrjYzTgO4ZCBRuFzA==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 1830813558919537902,
+              "FileLength": 801
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "d1a8677c-af6b-4d23-af5c-a170f2029a8e": {
+        "FileHash": "BPI+Ftb0b7rQp/LHGYQBGA==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 11039911366602914443,
+              "FileLength": 477
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "4e24da3a-b061-40b8-b5aa-4ed09a91434d": {
+        "FileHash": "cZGlzIAjvWfuhOl5qryefg==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 7172649642321325590,
+              "FileLength": 850
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "7e9ebc0b-f48a-4f33-9a2e-8d54ea2603a0": {
+        "FileHash": "jZneQeDZzAugGQGnPIhV7A==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 9419203288025206444,
+              "FileLength": 308
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "b1fd6b64-b64f-48c2-8608-c97ffb4b0b72": {
+        "FileHash": "K77KrJ4Z7KZma/adP4um1w==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 10358300742493428921,
+              "FileLength": 369
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "a832a0e1-0d84-4d35-90ea-1d0f6f47f62a": {
+        "FileHash": "HUkY59Jmr+WaaJ9Z8yZbJw==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 7675088955995464016,
+              "FileLength": 328
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "fd40e833-544f-4826-83ef-26e29ce80ac8": {
+        "FileHash": "6idxhaMtl1TRKk7jVXXc+w==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Render.Models.ModelMeshParts",
+              "MeshParts": []
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Core.Model.AssetModelMetadata",
+              "Bones": [
+                {
+                  "Index": 0,
+                  "Name": "RootNode",
+                  "Parent": -1,
+                  "Transform": {
+                    "M11": 1,
+                    "M12": 0,
+                    "M13": 0,
+                    "M14": 0,
+                    "M21": 0,
+                    "M22": 1,
+                    "M23": 0,
+                    "M24": 0,
+                    "M31": 0,
+                    "M32": 0,
+                    "M33": 1,
+                    "M34": 0,
+                    "M41": 0,
+                    "M42": 0,
+                    "M43": 0,
+                    "M44": 1,
+                    "Translation": {
+                      "X": 0,
+                      "Y": 0,
+                      "Z": 0
+                    }
+                  }
+                },
+                {
+                  "Index": 1,
+                  "Name": ")re_50",
+                  "Parent": 0,
+                  "Transform": {
+                    "M11": 1,
+                    "M12": 0,
+                    "M13": 0,
+                    "M14": 0,
+                    "M21": 0,
+                    "M22": 1,
+                    "M23": 0,
+                    "M24": 0,
+                    "M31": 0,
+                    "M32": 0,
+                    "M33": 1,
+                    "M34": 0,
+                    "M41": 0,
+                    "M42": 0,
+                    "M43": 0,
+                    "M44": 1,
+                    "Translation": {
+                      "X": 0,
+                      "Y": 0,
+                      "Z": 0
+                    }
+                  }
+                }
+              ],
+              "LODDescriptors": [],
+              "IsSkinned": false,
+              "ModelType": "Default",
+              "BoundingBox": {
+                "Min": {
+                  "X": -0.3732904,
+                  "Y": -0.12905365,
+                  "Z": -0.12634367
+                },
+                "Max": {
+                  "X": 0.12666076,
+                  "Y": 0.36406124,
+                  "Z": 0.35333437
+                }
+              },
+              "BoundingSphere": {
+                "Center": {
+                  "X": -0.12331481,
+                  "Y": 0.11750379,
+                  "Z": 0.11349535
+                },
+                "Radius": 0.2854604
+              },
+              "MaterialAssignment": [],
+              "MaterialStateOverrides": {},
+              "GeometryDataAsset": null
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "Game2:Keen.Game2.Simulation.GameSystems.BlockDataGenerators.GeneratedBlockData",
+              "Occupancy": {
+                "CellGroups": [],
+                "Bounds": {
+                  "Min": {
+                    "X": 2147483647,
+                    "Y": 2147483647,
+                    "Z": 2147483647
+                  },
+                  "Max": {
+                    "X": -2147483648,
+                    "Y": -2147483648,
+                    "Z": -2147483648
+                  }
+                }
+              },
+              "MountPoints": null,
+              "MountPointSurfels": {},
+              "MountPointsDebugData": null
+            },
+            "ExtractorVersion": 0
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 8369333022826619433,
+              "FileLength": 12261
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "64947b9c-e7bf-44b7-8fdc-f4df6b71204c": {
+        "FileHash": "NbBLOKbcqJt23YTR4zDMMA==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Render.Models.ModelMeshParts",
+              "MeshParts": []
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Core.Model.AssetModelMetadata",
+              "Bones": [
+                {
+                  "Index": 0,
+                  "Name": "RootNode",
+                  "Parent": -1,
+                  "Transform": {
+                    "M11": 1,
+                    "M12": 0,
+                    "M13": 0,
+                    "M14": 0,
+                    "M21": 0,
+                    "M22": 1,
+                    "M23": 0,
+                    "M24": 0,
+                    "M31": 0,
+                    "M32": 0,
+                    "M33": 1,
+                    "M34": 0,
+                    "M41": 0,
+                    "M42": 0,
+                    "M43": 0,
+                    "M44": 1,
+                    "Translation": {
+                      "X": 0,
+                      "Y": 0,
+                      "Z": 0
+                    }
+                  }
+                },
+                {
+                  "Index": 1,
+                  "Name": ")re_50",
+                  "Parent": 0,
+                  "Transform": {
+                    "M11": 1,
+                    "M12": 0,
+                    "M13": 0,
+                    "M14": 0,
+                    "M21": 0,
+                    "M22": 1,
+                    "M23": 0,
+                    "M24": 0,
+                    "M31": 0,
+                    "M32": 0,
+                    "M33": 1,
+                    "M34": 0,
+                    "M41": 0,
+                    "M42": 0,
+                    "M43": 0,
+                    "M44": 1,
+                    "Translation": {
+                      "X": 0,
+                      "Y": 0,
+                      "Z": 0
+                    }
+                  }
+                }
+              ],
+              "LODDescriptors": [],
+              "IsSkinned": false,
+              "ModelType": "Default",
+              "BoundingBox": {
+                "Min": {
+                  "X": -0.33172572,
+                  "Y": -0.11039035,
+                  "Z": -0.12235919
+                },
+                "Max": {
+                  "X": 0.110339746,
+                  "Y": 0.3625236,
+                  "Z": 0.34371144
+                }
+              },
+              "BoundingSphere": {
+                "Center": {
+                  "X": -0.110692985,
+                  "Y": 0.12606663,
+                  "Z": 0.110676125
+                },
+                "Radius": 0.28084183
+              },
+              "MaterialAssignment": [],
+              "MaterialStateOverrides": {},
+              "GeometryDataAsset": null
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "Game2:Keen.Game2.Simulation.GameSystems.BlockDataGenerators.GeneratedBlockData",
+              "Occupancy": {
+                "CellGroups": [],
+                "Bounds": {
+                  "Min": {
+                    "X": 2147483647,
+                    "Y": 2147483647,
+                    "Z": 2147483647
+                  },
+                  "Max": {
+                    "X": -2147483648,
+                    "Y": -2147483648,
+                    "Z": -2147483648
+                  }
+                }
+              },
+              "MountPoints": null,
+              "MountPointSurfels": {},
+              "MountPointsDebugData": null
+            },
+            "ExtractorVersion": 0
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 12780388238034219736,
+              "FileLength": 2013
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "83a63b8f-13da-40e9-a531-b4d379d34860": {
+        "FileHash": "TbzLYIEfEhajoyHGpMK2bg==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Core.Utils.GraphicsMetadata",
+              "GraphicsType": "Bitmap"
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Core.Utils.ImageMetadata",
+              "IsValid": true,
+              "Dimensions": {
+                "X": 4096,
+                "Y": 4096
+              },
+              "FileMips": [
+                {
+                  "Resolution": {
+                    "X": 4096,
+                    "Y": 4096
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 2048,
+                    "Y": 2048
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 1024,
+                    "Y": 1024
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 512,
+                    "Y": 512
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 256,
+                    "Y": 256
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 128,
+                    "Y": 128
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 64,
+                    "Y": 64
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 32,
+                    "Y": 32
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 16,
+                    "Y": 16
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 8,
+                    "Y": 8
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 4,
+                    "Y": 4
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 2,
+                    "Y": 2
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 1,
+                    "Y": 1
+                  },
+                  "Depth": 1
+                }
+              ],
+              "MetadataPNG": null,
+              "MetadataDDS": {
+                "DxFormat": 99,
+                "ArraySize": 1,
+                "Depth": 1,
+                "MipLevels": 13,
+                "DxDimension": 0,
+                "HasDX10Header": true,
+                "CachedMips": [
+                  {
+                    "CachedImageDataOffset": 0,
+                    "Resolution": {
+                      "X": 32,
+                      "Y": 32
+                    },
+                    "Depth": 1,
+                    "RowPitch": 128,
+                    "FacePitch": 1024
+                  },
+                  {
+                    "CachedImageDataOffset": 1024,
+                    "Resolution": {
+                      "X": 16,
+                      "Y": 16
+                    },
+                    "Depth": 1,
+                    "RowPitch": 64,
+                    "FacePitch": 256
+                  },
+                  {
+                    "CachedImageDataOffset": 1280,
+                    "Resolution": {
+                      "X": 8,
+                      "Y": 8
+                    },
+                    "Depth": 1,
+                    "RowPitch": 32,
+                    "FacePitch": 64
+                  },
+                  {
+                    "CachedImageDataOffset": 1344,
+                    "Resolution": {
+                      "X": 4,
+                      "Y": 4
+                    },
+                    "Depth": 1,
+                    "RowPitch": 16,
+                    "FacePitch": 16
+                  },
+                  {
+                    "CachedImageDataOffset": 1360,
+                    "Resolution": {
+                      "X": 2,
+                      "Y": 2
+                    },
+                    "Depth": 1,
+                    "RowPitch": 16,
+                    "FacePitch": 16
+                  },
+                  {
+                    "CachedImageDataOffset": 1376,
+                    "Resolution": {
+                      "X": 1,
+                      "Y": 1
+                    },
+                    "Depth": 1,
+                    "RowPitch": 16,
+                    "FacePitch": 16
+                  }
+                ],
+                "CachedImageData": "0KiBAsAjIcpDjZSwSV90jtBogQGAI8XOrqpUOMmj67rQLhkAQOQs7KoKTKJIrmArwBtIpAEAKgKo+4F3sepReJCIHQRAgKxey8UcadMaPXDAXEeUAQAwAEswRQGJXNrfwBOuEwIABBkilExX/xjJfJAtoQPAoHyLqsrOxnptR27QqQUDQOSAMlO1FWlS57aMkGidBEARxCH5KV/ERds20NBpAQJA1CwqSctTkiQAnEUgopxmBAAkuFTr7cmo5Pso0AwVAEAjJYvU7KqtseE67IATUiqddA4AAIAwAlX1rqrQCxEAgCPN6MkgoM6RQ+LFQNBtEwIAAhY392C6JX2jltCpAQNAA91TWi2DFmQ8WbowwRgEgMStosi2TBQk0fIGEC2hA0CwbPHL1yf0JS0lQtCoAQNAA6UlMzOdAknIrpCQ6Z0EAMAQUPf/UZBkJU2z0C4ZAID0fFnTLC8dz5iNrdBIgQFA1FRr60PDHsyKxiTQLBEAgCO18qiIxKaxU21fkKmdBECArKJ0X0WgSJk7iZCpHQSAoNza1gq3sA4vR2nQaAECQANlTc1KpjI11VGa0AsNAIATATLyU1VUcm47stDIAQOAIykrrQ5ij2hBFkTAHWm0AQAyAQGiAJAmSHvP0OkFA4Dk1PXFxRNgBjXFL9BoAQJAA80py6iskki2PbrQLBEAwENByamyItmyNYfW0GgBAkDkdFu1WBMlKUoYzRDKHQSAwICSWlImyW99wVrQqYUCQAN9Vfb8yUQB86B+kGidBABgJDaCAqZQ8ckeutCpAQMAI8UjSy3NsmztLfLQyQEDgBNRC73Wo5vsyvrSEKkdBICwjDQujB5EDxd1ZUDbSNQBACoBAJmZd2RD3e7QiYUCAOSMtjrUEbVkW9B60IgBA8DUJEvLVlO/bEmScZAtoQNAErBKD0y/trZv8vrQiQECgBOtjSw7n0L3/gto0AsRAEDEdFOrqOwJ2mRSC9AOGQBA5CjVnnxDttF9XZfQDZkAQNR8qqpUZWth9+aekKkdBEASzC1ULUwSzQGispAMIQPAgDT+nlLNDMxIm43QaIEBQAMhKkszyxRtYXQq0GkBAoATIarSqvQN1hgP+tCpgQLAIykrSwWG2t6sswnQaQECQNTIKktb58qtq4CZ0AoJAMAjAaJiSZuAcjXXTtBpAQJAE6VcV1cXT6SrRLXQLJEAAOQAo4yUQxDS7T1pkCuhA0ARSCwoq63LUeWkm9CJgQKAE1HLcksVoCisxNfQSIEBQAOlBgoJs5+lSmhM0ImFAkDkVFc1DY+Y7MAmJNCoAQNAA4WsKsXNeoajMm3QyQEDQBP1SbE0B7RJsZnVQFoJxAEAKAUlFGIJcsV2+dCJBQLAE7U0DAAFcmmtUCbQLZUAQOTMS03ywGyoP3EvEKkdBECgzAkCLF6vKQxEIdCphQJA5FTLxFYnd24KKokQiR0EQJCo1Mp82fi7kVmW0CsRAIAThaooQGkbGi252dDJAQOAE03Vc6XU5FfhiXDQyIECAOQUWPNwEZdITXKOkImdBMARXHOpiiywQV2mTdAslQDAIwGqhgBai2neeHfQqIECgNTsxNQzjRb127KFkKkdBICQ2PJOgfxSM96IQJCJHQTAMZSMaNWdMTadtEkwgRwEQHQhA4EW0KzIU/YjkCyhA8AhxFIlNscouh1ZktCJgQKAE7VcsSqShmyTzXfQiQUCAOQIq1TLztnA5DQqQJKsAwIABpGcnBZ1nWD0SxAroQOAgJyq6rLLyYkrRi3QiQUCAOQQM4myqDltFKSx0GqJAQD0VL9TXbNcPGg6bMAV4AMAABQAAP8A//////9AFcADAAASgPD/////////",
+                "CachedFileSize": 22369796
+              },
+              "MetadataJPG": null
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 0,
+              "FileLength": 0
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "e978add3-1b42-4820-87a0-d744920e3c3d": {
+        "FileHash": "wZx7Sv+dDU2hbMdxb0COmQ==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Core.Utils.GraphicsMetadata",
+              "GraphicsType": "Bitmap"
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Core.Utils.ImageMetadata",
+              "IsValid": true,
+              "Dimensions": {
+                "X": 4096,
+                "Y": 4096
+              },
+              "FileMips": [
+                {
+                  "Resolution": {
+                    "X": 4096,
+                    "Y": 4096
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 2048,
+                    "Y": 2048
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 1024,
+                    "Y": 1024
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 512,
+                    "Y": 512
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 256,
+                    "Y": 256
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 128,
+                    "Y": 128
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 64,
+                    "Y": 64
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 32,
+                    "Y": 32
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 16,
+                    "Y": 16
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 8,
+                    "Y": 8
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 4,
+                    "Y": 4
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 2,
+                    "Y": 2
+                  },
+                  "Depth": 1
+                }
+              ],
+              "MetadataPNG": null,
+              "MetadataDDS": {
+                "DxFormat": 98,
+                "ArraySize": 1,
+                "Depth": 1,
+                "MipLevels": 12,
+                "DxDimension": 0,
+                "HasDX10Header": true,
+                "CachedMips": [
+                  {
+                    "CachedImageDataOffset": 0,
+                    "Resolution": {
+                      "X": 32,
+                      "Y": 32
+                    },
+                    "Depth": 1,
+                    "RowPitch": 128,
+                    "FacePitch": 1024
+                  },
+                  {
+                    "CachedImageDataOffset": 1024,
+                    "Resolution": {
+                      "X": 16,
+                      "Y": 16
+                    },
+                    "Depth": 1,
+                    "RowPitch": 64,
+                    "FacePitch": 256
+                  },
+                  {
+                    "CachedImageDataOffset": 1280,
+                    "Resolution": {
+                      "X": 8,
+                      "Y": 8
+                    },
+                    "Depth": 1,
+                    "RowPitch": 32,
+                    "FacePitch": 64
+                  },
+                  {
+                    "CachedImageDataOffset": 1344,
+                    "Resolution": {
+                      "X": 4,
+                      "Y": 4
+                    },
+                    "Depth": 1,
+                    "RowPitch": 16,
+                    "FacePitch": 16
+                  },
+                  {
+                    "CachedImageDataOffset": 1360,
+                    "Resolution": {
+                      "X": 2,
+                      "Y": 2
+                    },
+                    "Depth": 1,
+                    "RowPitch": 16,
+                    "FacePitch": 16
+                  }
+                ],
+                "CachedImageData": "UHF9/vtTxqqyiO4vllBEb7B/S/V7tcbrs6oANt0kMYRQln3+++XOKw2tEjIydpX1UFF9//uEtqq2KkQwklJ2KrD+K+l/uY2yCpcBxJE9K9qQjCLb/28DCOhyV9B6rM+xsPyjyr+l9siMlCQLrN7m27D/r+r/uS0tMdQV0V4LQjNQS/7vf6XKQiZ1B4YFa3VTUJH9/X11tjAroy6nczIFJJDTVfX9Ty8BBixWwrH3ZjuAyHTt0VXt/97/v7/o1ctJ0BL9/XumhgiOxG4ihdIIfZC03fT5L4cgGjLeWGE+U7t2VXtq44pS+v/3LWXsCUlDsN9X9bvasSNBS5n2MuU2U4Adq9RF6oz/n+//d+KyeKqwn8v0+0mtDqVL1TZ1PZEg0DN9/vuEqqrUduUSTqIYGbB/2/S79jawSPOMpvXfug2wf9vzeTrt4kopVevZL4tssPur5/93oS3d3NIW31LCZJCtLun/TwMUHDqwJ5FRF2mw/DPpP8q1OPEypF+b9/T+ML9L9n3aCVb9iqDCbVxF37Dfz/X9WWFJbTIaxahLjkgwv8f0OVrBqjYrj3XYT23tsF9T9T2LtcnLUxcyBSSn+lDw6s//i1VLS1EJAkjc9G6QqzLb/28jASSCC2JBptvVNiN2tZqknT7P/1+GvKbkgvYcmaHXGXn+z//MDrGZxpuA0GsuTqbk//7/3b8D7kmhsH/b9HtrtbwctNTGgRtJvjD/K+q/aqVKq14oC3rRt2i6FbqZ1Uel/d//V07J3kRXsPuv27/GCgGpqdA+dkskJeZm12JrpD4//+uVtne5HUKQdln0+/3rjcH3y0qJ72aTsP0r6r9ZTfS2OsiobTO17VCyff59KdGSqtSsP5FLFCRQa/bv/2S2TDNXmrjdGdZ1kM4y2z/+539a/2+ntZOmDVBL9u9/1spMX7vacCETIo1QTu7f/2Mu1dXqgkRp9m+bsPon2j/KWdQur2tdji1HtrB/W/U7qvHS1jfRIkTbqM3Qdf3+vTpRQ4u2qobw2ahxUE3u7z+lrnRfdQPSc9OYJNCz/f6/ZtYp/LRaPdJq1xXqouWZJVWtf9//WleZQ8IsULZ9/nuVzsOqwp7gt9QWcVBN7u8/dU7dXNJI5K3tXZJqGIhi1Clq/P/7T7vN5xsQsH9T9r11zsvT8d+WbCJrtjDfT/Q7pq4SUnVnubmHO5LQkH3+/WW2860oUaIMRIOZUCv+7/+ZNd3Hy0m2sr01YbB/x/S9pqaopKaYy3LbOraQbi7q/18DBgIAHivakYhksP2j2n+2zlLxTOdQjvJdiZCNotm//fO/f34ZOdl2TAow+x/Kf7WujNT0kc3NN9VaMP0r6T+aSVPVzVSHjWtP8zD9L+l/ltYiS7dMrk1Ioknq5WdmooVqv//7WVuoF/mKUJJ9/n11piosWhLF9lrdQTD/r+l/dlLXVDclSZCD+ZxQTfr/v0Y2V3402zCFY5ed0lrKkZeonf7v/xqP2xc3GZCsKtv/jyOgB4xGMiH3wtaQbaro/3+DBgIAbq26yVZtsL/L9T2XBoErKFjyrXQlsVCyff/9lVKJYwtbRA09RW1QTfLvP1n1clVTx8xG/wJkULN9/306SecSt1p3bogoUrD+t/j/NlZeqwLHipz8K636JJdy5SVav//7L/hK9lCb6tvZhdeYif7//7n5brp0LrC/S/X9drJZ2S7IotU1FU1QLv7/vyZ2QK0PmbGx2zqjlqLmpSOmnb/f/7+JyrjygDD+s/h/V9ZqMxXhEjVTjmRQL/r//0Z2qqv3VBSeE6FAUA/+/z8H0vfz+yHNNeLMTFAQfPCBB+Dh///BD/z///8=",
+                "CachedFileSize": 22369780
+              },
+              "MetadataJPG": null
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 0,
+              "FileLength": 0
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      },
+      "1aee545a-f908-4165-93ff-38f235346b24": {
+        "FileHash": "37ysd77qaujFz+wBye9o1A==",
+        "Blobs": [
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Core.Utils.GraphicsMetadata",
+              "GraphicsType": "Bitmap"
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Core.Utils.ImageMetadata",
+              "IsValid": true,
+              "Dimensions": {
+                "X": 4096,
+                "Y": 4096
+              },
+              "FileMips": [
+                {
+                  "Resolution": {
+                    "X": 4096,
+                    "Y": 4096
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 2048,
+                    "Y": 2048
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 1024,
+                    "Y": 1024
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 512,
+                    "Y": 512
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 256,
+                    "Y": 256
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 128,
+                    "Y": 128
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 64,
+                    "Y": 64
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 32,
+                    "Y": 32
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 16,
+                    "Y": 16
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 8,
+                    "Y": 8
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 4,
+                    "Y": 4
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 2,
+                    "Y": 2
+                  },
+                  "Depth": 1
+                },
+                {
+                  "Resolution": {
+                    "X": 1,
+                    "Y": 1
+                  },
+                  "Depth": 1
+                }
+              ],
+              "MetadataPNG": null,
+              "MetadataDDS": {
+                "DxFormat": 98,
+                "ArraySize": 1,
+                "Depth": 1,
+                "MipLevels": 13,
+                "DxDimension": 0,
+                "HasDX10Header": true,
+                "CachedMips": [
+                  {
+                    "CachedImageDataOffset": 0,
+                    "Resolution": {
+                      "X": 32,
+                      "Y": 32
+                    },
+                    "Depth": 1,
+                    "RowPitch": 128,
+                    "FacePitch": 1024
+                  },
+                  {
+                    "CachedImageDataOffset": 1024,
+                    "Resolution": {
+                      "X": 16,
+                      "Y": 16
+                    },
+                    "Depth": 1,
+                    "RowPitch": 64,
+                    "FacePitch": 256
+                  },
+                  {
+                    "CachedImageDataOffset": 1280,
+                    "Resolution": {
+                      "X": 8,
+                      "Y": 8
+                    },
+                    "Depth": 1,
+                    "RowPitch": 32,
+                    "FacePitch": 64
+                  },
+                  {
+                    "CachedImageDataOffset": 1344,
+                    "Resolution": {
+                      "X": 4,
+                      "Y": 4
+                    },
+                    "Depth": 1,
+                    "RowPitch": 16,
+                    "FacePitch": 16
+                  },
+                  {
+                    "CachedImageDataOffset": 1360,
+                    "Resolution": {
+                      "X": 2,
+                      "Y": 2
+                    },
+                    "Depth": 1,
+                    "RowPitch": 16,
+                    "FacePitch": 16
+                  },
+                  {
+                    "CachedImageDataOffset": 1376,
+                    "Resolution": {
+                      "X": 1,
+                      "Y": 1
+                    },
+                    "Depth": 1,
+                    "RowPitch": 16,
+                    "FacePitch": 16
+                  }
+                ],
+                "CachedImageData": "8JoC8D98toyM3O3QL3ZE2zD/A0B3Te5KAgD+io+y39Uw/wMQrTyGghS+ZNMdSbtMMP8DIK9NTqvQKSeJ9VNnsnBYAvB/GS++Cq/eBijbpHcKpaufAAAApLqOZRPsS9FB8JkC8L87Is1e1ArQzf6FnvA4AvC/6QZVrQ2rR060wV0w/wMgawijBNdemOfQ1u0W8G8D8H95L1FxQd+ozZMvsPBQA/C/Wa+2VKqk34nv4FIw/wNQ41yuSnVLErYq/CkLMP8DMPN4a6GAIsfKqCy78DD/A0D1bAIy+qoms5VCDOzwOgLwf1mrIYOMxEBuv99/8FcC8L98UlHt/Y+kbYe2abD/AyAz7cGqNdW+IxZAkiDw1wHwPwjPCwsjn6FY0Lm2MP8DMHEczqAA5BJEQay583AaAvA/LTbS6lUnhZWbT9qw/wOwIx0e+lTUMLe69m3/8JsC8D9bLiIMtpSdnRgyRDD/A6AnesPLVbVS0iK+0Cs+J22mAAAAZsrGPEo7g3A9MP8DYCedAqpeX48yKHXfu/D3AfA/SYejq6rgCZqBmGCw/wOwZ8jm15vLdJAV7WXf8FAD8L9ZB64urchWN/5N23C7AvA/edehpCpXUE73xEnwcwPw//giocrqVa+RFkG18FkC8H8pzyGBoljFfMSaRXASA/D/baYzqSpnQHL+39rwVQPwf/pqr5YwgZbxYwinMP8DQHdNhqryIpRHm/OI1zD/A1Bj21XdXPKahC0IITzwMQPwP3zCLV395Ih9Uxtq8HoC8D9aq6hz1d3HdgW4IAotd84AAAAtKda3vdEORFEw/wNwJY1SIaNX1ZiBi/gtcDcC8H89LupMNefWEmb3kvBzA/D/yeoNAFLRxknT4vrwVwLwP1sqrLL82+iEM8D/cDkC8D8swqsKfFMvjEE0tvBSA/A/qVpzt8wRlbAft70w/wNw54kv/P9L36oEitaT8HYD8H9rsrRMwdOH/dF2B7D/AyBxjVbToupDpPFjvXHwEAPw/+gqhbbMhmpF9re9MP8DMCt6S1d+KxhNKaVPajD/AzBrPCYhMzwaS9vjDtbwNwLwf332yTLenp1xmLgJcBMD8H85h3RzzQRySudUJVb2mtIAAACseaocdr4H8TGw/wMw85wqpV3ZV5IkjHghMP8DQPVpK6je/law2fNNlrD/AyB1CSd85b+VoHubJ0kw/wMwrUkjUnWtnhaN4tcW8BcC8P/J/v4ooZmyJZyyG37tbZsAAACnypIwsBOVw2fwWwLwv0kHKnpZvY3WY+mVcFkC8P9oL9fNNpQiBT63mzbxOK8AAADq+Kak8YT8gutwEAPw/1j/zZf+vZdMC8JJ8DMD8H+5IlB7dZWWmdhpSjD/AzCzTDarIIMHN81dNR6w/wMg8RlvrNIngUaEplIm8FQD8H/5DrTS8hkS7ZikNvBXAvC/W9auhDIBJ5GAdm8w/wNgpRzKdkHUKFvywLxpMP8DIPNMzircShdl8yVrB/BUA/C/PNbecslYg/im7G7wegLwv2xyTS/WNYe6q7nZ8HgC8L97rgpU9ccasRwLnDD/AyCtCWspr7ZKOohXOvYw/wMgc2k3HaqqXtZCG1+W8HgC8L97Wnzvqwmr2JGPTfB4AvD/uY5M8pdPD+wcJ71wUwPwP2ymqjyy2DykHf0GsP8DMLOclkJ/z4oSTQFwavA0A/C/Wa+2CqJe0otgxmjwdwLwv2tuhV2V4sZJPIk68DQD8P/ZpjrpJt2wJTFjLvCYAvC/a+Y0lczsLXO5SaPwmALw/4ta1ZfadS7IWViS8PQC8P+aOmc6R2YVnZQ5tnAWAPCBCuDh///BD/z////ALAAAqAL+APD/////////",
+                "CachedFileSize": 22369796
+              },
+              "MetadataJPG": null
+            },
+            "ExtractorVersion": 1
+          },
+          {
+            "Instance": {
+              "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.Content.FileHashMetadataBlob",
+              "Xx64Hash": 0,
+              "FileLength": 0
+            },
+            "ExtractorVersion": 0
+          }
+        ]
+      }
+    }
+  }
+}

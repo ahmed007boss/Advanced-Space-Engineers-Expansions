@@ -1,0 +1,10 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "2.0.2.29"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Project.FileSystem.FileHashesCacheModel",
+  "$Value": {
+    "CachedItems": {}
+  }
+}
