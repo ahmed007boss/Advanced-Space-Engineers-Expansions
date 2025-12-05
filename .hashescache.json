@@ -5,6 +5,217 @@
   },
   "$Type": "VRage:Keen.VRage.ContentPipeline.Project.FileSystem.FileHashesCacheModel",
   "$Value": {
-    "CachedItems": {}
+    "CachedItems": {
+      "assets\\items\\ores\\sulfurore\\sulfuroreitemprefab_servercomposition.partialdef": {
+        "FileHash": "z7MgouqJiyyD/do3j3LgVg==",
+        "ModificationTime": "2025-12-05T14:14:42.6520664Z",
+        "CreationTime": "2025-12-05T14:14:42.6510668Z"
+      },
+      "assets\\items\\ores\\sulfurore\\materials\\sulfurore_y_near_height.png": {
+        "FileHash": "hnKTulBAaiWeuhGzh6ex4A==",
+        "ModificationTime": "2025-12-05T14:14:42.3719223Z",
+        "CreationTime": "2025-12-05T14:14:42.3699224Z"
+      },
+      "assets\\items\\ores\\sulfurore\\materials\\sulfurore_y_near_ao.png": {
+        "FileHash": "ZL8t4KEKC+jbsn9Pb/2rew==",
+        "ModificationTime": "2025-12-05T14:14:42.2049224Z",
+        "CreationTime": "2025-12-05T14:14:42.2006931Z"
+      },
+      "assets\\items\\ores\\sulfurore\\materials\\sulfurorepbr.partialdef": {
+        "FileHash": "UYR/6btPlxl/SMi1qPcNRQ==",
+        "ModificationTime": "2025-12-05T14:14:42.1666940Z",
+        "CreationTime": "2025-12-05T14:14:42.1666940Z"
+      },
+      "content\\items\\ores\\sulfurore\\models\\sulfurore_50_lod1.mwm": {
+        "FileHash": "YPqUwds2OOhzZR5t/1ybPg==",
+        "ModificationTime": "2025-12-05T14:14:43.2782012Z",
+        "CreationTime": "2025-12-05T14:14:43.2771995Z"
+      },
+      "content\\items\\ores\\sulfurore\\models\\sulfurore_50_lod0.mwm": {
+        "FileHash": "fOYcOQjABLHN/wdH66p1+w==",
+        "ModificationTime": "2025-12-05T14:14:43.2761997Z",
+        "CreationTime": "2025-12-05T14:14:43.2751996Z"
+      },
+      "content\\items\\ores\\sulfurore\\sulfuroreitemprefab.def": {
+        "FileHash": "K77KrJ4Z7KZma/adP4um1w==",
+        "ModificationTime": "2025-12-05T14:14:43.2811998Z",
+        "CreationTime": "2025-12-05T14:14:43.2811998Z"
+      },
+      "assets\\items\\ores\\sulfurore\\sulfuroreitemprefab.partialdef": {
+        "FileHash": "6gyTlV3fRmYZ6qEwc4yfQA==",
+        "ModificationTime": "2025-12-05T14:14:42.6450668Z",
+        "CreationTime": "2025-12-05T14:14:42.6450668Z"
+      },
+      "content\\items\\ores\\sulfurore\\models\\sulfurore_50_lod3.mwm": {
+        "FileHash": "NbBLOKbcqJt23YTR4zDMMA==",
+        "ModificationTime": "2025-12-05T14:14:43.2802003Z",
+        "CreationTime": "2025-12-05T14:14:43.2802003Z"
+      },
+      "content\\items\\ores\\sulfurore\\models\\sulfurore_50_lod2.mwm": {
+        "FileHash": "6idxhaMtl1TRKk7jVXXc+w==",
+        "ModificationTime": "2025-12-05T14:14:43.2792018Z",
+        "CreationTime": "2025-12-05T14:14:43.2792018Z"
+      },
+      "assets\\items\\ores\\sulfurore\\materials\\sulfurore_y_near_normal.png": {
+        "FileHash": "hjGQVCtUSzEQPVBi5qVLsw==",
+        "ModificationTime": "2025-12-05T14:14:42.5700655Z",
+        "CreationTime": "2025-12-05T14:14:42.5520665Z"
+      },
+      "assets\\items\\ores\\sulfurore\\models\\sulfurore_50.model": {
+        "FileHash": "gpPKjT8DGTmCVil4jz/SFQ==",
+        "ModificationTime": "2025-12-05T14:14:42.6360667Z",
+        "CreationTime": "2025-12-05T14:14:42.6360667Z"
+      },
+      "assets\\items\\ores\\sulfurore\\materials\\sulfurore_y_near_nr.comptex": {
+        "FileHash": "ImXFdotcjUlYHwOyXi9WzA==",
+        "ModificationTime": "2025-12-05T14:14:42.6250663Z",
+        "CreationTime": "2025-12-05T14:14:42.6250663Z"
+      },
+      "content\\items\\ores\\sulfurore\\materials\\sulfurore_y_near_add.dds": {
+        "FileHash": "37ysd77qaujFz+wBye9o1A==",
+        "ModificationTime": "2025-12-05T14:14:42.8720656Z",
+        "CreationTime": "2025-12-05T14:14:42.8620656Z"
+      },
+      "assets\\items\\ores\\sulfurore\\sulfurore_icon.png": {
+        "FileHash": "4X+Fg8ewWgySWu1dV9cMtA==",
+        "ModificationTime": "2025-12-05T14:14:42.6590685Z",
+        "CreationTime": "2025-12-05T14:14:42.6580658Z"
+      },
+      "content\\items\\ores\\sulfurore\\sulfuroreitemprefab_server.def": {
+        "FileHash": "Yd62TzJEFeJySj5d8PU6fQ==",
+        "ModificationTime": "2025-12-05T14:14:43.2841994Z",
+        "CreationTime": "2025-12-05T14:14:43.2832030Z"
+      },
+      "content\\items\\ores\\sulfurore\\sulfuroreitemprefab_servercomposition.def": {
+        "FileHash": "054WwQrjYzTgO4ZCBRuFzA==",
+        "ModificationTime": "2025-12-05T14:14:43.2841994Z",
+        "CreationTime": "2025-12-05T14:14:43.2841994Z"
+      },
+      "assets\\items\\ores\\sulfurore\\materials\\sulfurore_y_near_albedo.png": {
+        "FileHash": "uJ89H9i2kunTmi4rKC0dpw==",
+        "ModificationTime": "2025-12-05T14:14:42.3569224Z",
+        "CreationTime": "2025-12-05T14:14:42.3409223Z"
+      },
+      "content\\items\\ores\\sulfurore\\sulfuroreitemmodel.def": {
+        "FileHash": "jZneQeDZzAugGQGnPIhV7A==",
+        "ModificationTime": "2025-12-05T14:14:43.2811998Z",
+        "CreationTime": "2025-12-05T14:14:43.2802003Z"
+      },
+      "assets\\items\\ores\\sulfurore\\materials\\sulfurore_y_near_roughness.png": {
+        "FileHash": "2dtrvcYkdXR69Jd6Qc4pww==",
+        "ModificationTime": "2025-12-05T14:14:42.6190666Z",
+        "CreationTime": "2025-12-05T14:14:42.6150662Z"
+      },
+      "content\\items\\ores\\sulfurore\\sulfurore_icon.png": {
+        "FileHash": "jQ5SlINEW1YJ+fjgxjnDYw==",
+        "ModificationTime": "2025-12-05T14:14:43.3121995Z",
+        "CreationTime": "2025-12-05T14:14:43.3091995Z"
+      },
+      "assets\\items\\ores\\sulfurore\\sulfuroreitemprefab_clientcomposition.partialdef": {
+        "FileHash": "bUY4UncnzHe+JjcwaKnOfw==",
+        "ModificationTime": "2025-12-05T14:14:42.6480687Z",
+        "CreationTime": "2025-12-05T14:14:42.6480687Z"
+      },
+      "content\\items\\ores\\sulfurore\\materials\\sulfurore_y_near_cm.dds": {
+        "FileHash": "TbzLYIEfEhajoyHGpMK2bg==",
+        "ModificationTime": "2025-12-05T14:14:43.0931988Z",
+        "CreationTime": "2025-12-05T14:14:43.0821995Z"
+      },
+      "assets\\items\\ores\\sulfurore\\models\\sulfurore_50.hkt": {
+        "FileHash": "P9NcobTbO0JGBnO6llWl1Q==",
+        "ModificationTime": "2025-12-05T14:14:42.6350676Z",
+        "CreationTime": "2025-12-05T14:14:42.6340667Z"
+      },
+      "assets\\items\\ores\\sulfurore\\sulfuroreitemmodel.partialdef": {
+        "FileHash": "Y8GrmFk9fTup7SZhBDhFwQ==",
+        "ModificationTime": "2025-12-05T14:14:42.6440699Z",
+        "CreationTime": "2025-12-05T14:14:42.6430665Z"
+      },
+      "assets\\items\\ores\\sulfurore\\models\\sulfurore_50_lod3.fbx": {
+        "FileHash": "v3cn2JaooGmqavMCxPtrnA==",
+        "ModificationTime": "2025-12-05T14:14:42.6420671Z",
+        "CreationTime": "2025-12-05T14:14:42.6420671Z"
+      },
+      "content\\items\\ores\\sulfurore\\sulfuroreitemprefab_client.def": {
+        "FileHash": "HUkY59Jmr+WaaJ9Z8yZbJw==",
+        "ModificationTime": "2025-12-05T14:14:43.2821994Z",
+        "CreationTime": "2025-12-05T14:14:43.2821994Z"
+      },
+      "assets\\items\\ores\\sulfurore\\models\\sulfurore_50_lod1.fbx": {
+        "FileHash": "66A6Bwp46e649X6iiyfBsQ==",
+        "ModificationTime": "2025-12-05T14:14:42.6390666Z",
+        "CreationTime": "2025-12-05T14:14:42.6380669Z"
+      },
+      "assets\\items\\ores\\sulfurore\\sulfurore_item.partialdef": {
+        "FileHash": "ZoSC6nuv9+vXtV90TAtTwA==",
+        "ModificationTime": "2025-12-05T14:14:42.6600695Z",
+        "CreationTime": "2025-12-05T14:14:42.6600695Z"
+      },
+      "assets\\items\\ores\\sulfurore\\materials\\sulfurore_y_near_add.comptex": {
+        "FileHash": "B8N/0KFnuAFWN8R7wQ4ojw==",
+        "ModificationTime": "2025-12-05T14:14:42.6210666Z",
+        "CreationTime": "2025-12-05T14:14:42.6210666Z"
+      },
+      "content\\items\\ores\\sulfurore\\sulfuroreitemprefab_clientcomposition.def": {
+        "FileHash": "cZGlzIAjvWfuhOl5qryefg==",
+        "ModificationTime": "2025-12-05T14:14:43.2832030Z",
+        "CreationTime": "2025-12-05T14:14:43.2832030Z"
+      },
+      "content\\items\\ores\\sulfurore\\materials\\sulfurore_y_near_nr.dds": {
+        "FileHash": "wZx7Sv+dDU2hbMdxb0COmQ==",
+        "ModificationTime": "2025-12-05T14:14:43.2721994Z",
+        "CreationTime": "2025-12-05T14:14:43.2621992Z"
+      },
+      "content\\items\\ores\\sulfurore\\models\\sulfurore_50.mwm": {
+        "FileHash": "/wdkAH/Z3rfDnvsWIqCbqQ==",
+        "ModificationTime": "2025-12-05T14:14:43.2742009Z",
+        "CreationTime": "2025-12-05T14:14:43.2742009Z"
+      },
+      "assets\\items\\ores\\sulfurore\\models\\sulfurore_50.fbx": {
+        "FileHash": "wN0SG+PBwZHLOiLJ9JJS0g==",
+        "ModificationTime": "2025-12-05T14:14:42.6320665Z",
+        "CreationTime": "2025-12-05T14:14:42.6310673Z"
+      },
+      "assets\\items\\ores\\sulfurore\\models\\sulfurore_50_lod2.fbx": {
+        "FileHash": "i7BbHaXGfTKhEq9SQMVoAQ==",
+        "ModificationTime": "2025-12-05T14:14:42.6400674Z",
+        "CreationTime": "2025-12-05T14:14:42.6400674Z"
+      },
+      "assets\\items\\ores\\sulfurore\\materials\\sulfurore_y_near_metal.png": {
+        "FileHash": "56X4mHTRDxwBxvmw5fmdhw==",
+        "ModificationTime": "2025-12-05T14:14:42.3959222Z",
+        "CreationTime": "2025-12-05T14:14:42.3929219Z"
+      },
+      "assets\\items\\ores\\sulfurore\\sulfuroreitemprefab_server.partialdef": {
+        "FileHash": "Cnklnr1Ngon9QUNtlq2L1Q==",
+        "ModificationTime": "2025-12-05T14:14:42.6500698Z",
+        "CreationTime": "2025-12-05T14:14:42.6500698Z"
+      },
+      "assets\\items\\ores\\sulfurore\\materials\\sulfurore_y_near_cm.comptex": {
+        "FileHash": "VM6i9eZojKsDdcdyrCEGEA==",
+        "ModificationTime": "2025-12-05T14:14:42.6230664Z",
+        "CreationTime": "2025-12-05T14:14:42.6230664Z"
+      },
+      "content\\items\\ores\\sulfurore\\materials\\sulfurorepbr.def": {
+        "FileHash": "xRislRQlWdShwMf686nqHg==",
+        "ModificationTime": "2025-12-05T14:14:42.6630664Z",
+        "CreationTime": "2025-12-05T14:14:42.6630664Z"
+      },
+      "content\\items\\ores\\sulfurore\\sulfurore_item.def": {
+        "FileHash": "LT9dxSV3tJRJn+V0lifSFw==",
+        "ModificationTime": "2025-12-05T14:14:43.3142015Z",
+        "CreationTime": "2025-12-05T14:14:43.3131997Z"
+      },
+      "assets\\items\\ores\\sulfurore\\sulfuroreitemprefab_client.partialdef": {
+        "FileHash": "g+YLXUwKqP3DiFsK8iM6yg==",
+        "ModificationTime": "2025-12-05T14:14:42.6470666Z",
+        "CreationTime": "2025-12-05T14:14:42.6470666Z"
+      },
+      "assets\\items\\ores\\sulfurore\\materials\\sulfurore_icon.png": {
+        "FileHash": "yYGpD5SXU3+yGBV6x04fdw==",
+        "ModificationTime": "2025-12-05T14:14:42.6270693Z",
+        "CreationTime": "2025-12-05T14:14:42.6270693Z"
+      }
+    }
   }
 }

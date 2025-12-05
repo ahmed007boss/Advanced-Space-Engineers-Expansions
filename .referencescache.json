@@ -5,6 +5,317 @@
   },
   "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.References.Cache.AssetReferencesData",
   "$Value": {
-    "AssetReferences": []
+    "AssetReferences": [
+      {
+        "$Key": {
+          "Guid": "bb11aaa5-0ae5-4a94-a3e7-90caaf5547fc",
+          "Hash": "wN0SG+PBwZHLOiLJ9JJS0g=="
+        },
+        "$Value": {}
+      },
+      {
+        "$Key": {
+          "Guid": "0892b376-273f-4cb8-bf4a-fc67f3045ad5",
+          "Hash": "P9NcobTbO0JGBnO6llWl1Q=="
+        },
+        "$Value": {}
+      },
+      {
+        "$Key": {
+          "Guid": "5b337528-d029-4c43-a8e0-fd2697f12181",
+          "Hash": "gpPKjT8DGTmCVil4jz/SFQ=="
+        },
+        "$Value": {
+          "bb11aaa5-0ae5-4a94-a3e7-90caaf5547fc": [
+            "Dependency"
+          ],
+          "e18af88d-4c74-433e-85e8-f7a07d1a2d5f": [
+            "Dependency"
+          ],
+          "fd40e833-544f-4826-83ef-26e29ce80ac8": [
+            "Dependency"
+          ],
+          "64947b9c-e7bf-44b7-8fdc-f4df6b71204c": [
+            "Dependency"
+          ],
+          "0892b376-273f-4cb8-bf4a-fc67f3045ad5": [
+            "Dependency"
+          ],
+          "318942e2-62c7-461c-9bf3-0687a49ec851": [
+            "Reference"
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Guid": "e18af88d-4c74-433e-85e8-f7a07d1a2d5f",
+          "Hash": "66A6Bwp46e649X6iiyfBsQ=="
+        },
+        "$Value": {}
+      },
+      {
+        "$Key": {
+          "Guid": "fd40e833-544f-4826-83ef-26e29ce80ac8",
+          "Hash": "i7BbHaXGfTKhEq9SQMVoAQ=="
+        },
+        "$Value": {}
+      },
+      {
+        "$Key": {
+          "Guid": "64947b9c-e7bf-44b7-8fdc-f4df6b71204c",
+          "Hash": "v3cn2JaooGmqavMCxPtrnA=="
+        },
+        "$Value": {}
+      },
+      {
+        "$Key": {
+          "Guid": "a7db2bbe-b617-4c79-a0e3-542d070d0eb5",
+          "Hash": "yYGpD5SXU3+yGBV6x04fdw=="
+        },
+        "$Value": {}
+      },
+      {
+        "$Key": {
+          "Guid": "c891b276-8c2e-43a1-815d-690ff4d74d1a",
+          "Hash": "ZL8t4KEKC+jbsn9Pb/2rew=="
+        },
+        "$Value": {}
+      },
+      {
+        "$Key": {
+          "Guid": "318942e2-62c7-461c-9bf3-0687a49ec851",
+          "Hash": "UYR/6btPlxl/SMi1qPcNRQ=="
+        },
+        "$Value": {
+          "ee500208-f417-4c95-8cb1-4021bf7a979f": [
+            "Reference"
+          ],
+          "83a63b8f-13da-40e9-a531-b4d379d34860": [
+            "Reference"
+          ],
+          "e978add3-1b42-4820-87a0-d744920e3c3d": [
+            "Reference"
+          ],
+          "1aee545a-f908-4165-93ff-38f235346b24": [
+            "Reference"
+          ],
+          "28b46a4e-18ee-459f-a3b1-f268e7a20801": [
+            "Reference"
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Guid": "96d49632-8d01-482f-a7bd-bd33489ce00f",
+          "Hash": "56X4mHTRDxwBxvmw5fmdhw=="
+        },
+        "$Value": {}
+      },
+      {
+        "$Key": {
+          "Guid": "d2b972c5-67ea-4c5c-a52b-9d98ddebef56",
+          "Hash": "uJ89H9i2kunTmi4rKC0dpw=="
+        },
+        "$Value": {}
+      },
+      {
+        "$Key": {
+          "Guid": "83a63b8f-13da-40e9-a531-b4d379d34860",
+          "Hash": "VM6i9eZojKsDdcdyrCEGEA=="
+        },
+        "$Value": {
+          "b8c12ad6-a10b-4fdb-bbc0-8f2d655380f0": [
+            "Dependency"
+          ],
+          "d2b972c5-67ea-4c5c-a52b-9d98ddebef56": [
+            "Dependency",
+            "Dependency"
+          ],
+          "96d49632-8d01-482f-a7bd-bd33489ce00f": [
+            "Dependency"
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Guid": "c1e9d6e5-8ee1-4394-99d7-2e1be3b20e1b",
+          "Hash": "hnKTulBAaiWeuhGzh6ex4A=="
+        },
+        "$Value": {}
+      },
+      {
+        "$Key": {
+          "Guid": "1e1b6a2a-7941-4cf7-939e-76f5e723b5e4",
+          "Hash": "hjGQVCtUSzEQPVBi5qVLsw=="
+        },
+        "$Value": {}
+      },
+      {
+        "$Key": {
+          "Guid": "e978add3-1b42-4820-87a0-d744920e3c3d",
+          "Hash": "ImXFdotcjUlYHwOyXi9WzA=="
+        },
+        "$Value": {
+          "91156de7-286c-4574-8b47-7ef12981f5a6": [
+            "Dependency"
+          ],
+          "1e1b6a2a-7941-4cf7-939e-76f5e723b5e4": [
+            "Dependency",
+            "Dependency",
+            "Dependency"
+          ],
+          "77322ae3-8063-4d2e-b22d-c36ca3671243": [
+            "Dependency"
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Guid": "1aee545a-f908-4165-93ff-38f235346b24",
+          "Hash": "B8N/0KFnuAFWN8R7wQ4ojw=="
+        },
+        "$Value": {
+          "7e217c43-18d1-492d-af70-29e97513c39c": [
+            "Dependency"
+          ],
+          "c891b276-8c2e-43a1-815d-690ff4d74d1a": [
+            "Dependency"
+          ],
+          "c1e9d6e5-8ee1-4394-99d7-2e1be3b20e1b": [
+            "Dependency"
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Guid": "77322ae3-8063-4d2e-b22d-c36ca3671243",
+          "Hash": "2dtrvcYkdXR69Jd6Qc4pww=="
+        },
+        "$Value": {}
+      },
+      {
+        "$Key": {
+          "Guid": "ae3f898b-ea19-43a7-a406-f9e60778bdbf",
+          "Hash": "4X+Fg8ewWgySWu1dV9cMtA=="
+        },
+        "$Value": {}
+      },
+      {
+        "$Key": {
+          "Guid": "d1a8677c-af6b-4d23-af5c-a170f2029a8e",
+          "Hash": "ZoSC6nuv9+vXtV90TAtTwA=="
+        },
+        "$Value": {
+          "cb651320-76fb-413d-bdde-c46f35b7180d": [
+            "Reference"
+          ],
+          "ae3f898b-ea19-43a7-a406-f9e60778bdbf": [
+            "Reference"
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Guid": "7e9ebc0b-f48a-4f33-9a2e-8d54ea2603a0",
+          "Hash": "Y8GrmFk9fTup7SZhBDhFwQ=="
+        },
+        "$Value": {
+          "4efea99c-910a-4b11-932b-53c2d6440c2e": [
+            "Reference"
+          ],
+          "5b337528-d029-4c43-a8e0-fd2697f12181": [
+            "Reference"
+          ],
+          "ec312376-e391-4426-8df3-1a894d5a305c": [
+            "Reference"
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Guid": "b1fd6b64-b64f-48c2-8608-c97ffb4b0b72",
+          "Hash": "6gyTlV3fRmYZ6qEwc4yfQA=="
+        },
+        "$Value": {
+          "468cb517-621f-455a-a3f4-2bc29959241f": [
+            "Reference"
+          ],
+          "e82cfd39-6147-4700-8a21-a30dda5d4730": [
+            "Guid"
+          ],
+          "a832a0e1-0d84-4d35-90ea-1d0f6f47f62a": [
+            "Guid"
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Guid": "a832a0e1-0d84-4d35-90ea-1d0f6f47f62a",
+          "Hash": "g+YLXUwKqP3DiFsK8iM6yg=="
+        },
+        "$Value": {
+          "b3cb88f7-0b80-4565-b124-432e236e4cee": [
+            "Reference"
+          ],
+          "4e24da3a-b061-40b8-b5aa-4ed09a91434d": [
+            "Reference"
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Guid": "b2f873e3-2e3c-402b-972d-4814aabc4101",
+          "Hash": "Cnklnr1Ngon9QUNtlq2L1Q=="
+        },
+        "$Value": {
+          "5ab1af08-c7e0-40e9-9c1e-5a14fee25555": [
+            "Reference"
+          ],
+          "e82cfd39-6147-4700-8a21-a30dda5d4730": [
+            "Reference"
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Guid": "4e24da3a-b061-40b8-b5aa-4ed09a91434d",
+          "Hash": "bUY4UncnzHe+JjcwaKnOfw=="
+        },
+        "$Value": {
+          "25b19230-34e1-4070-9883-fb4939df63e2": [
+            "Reference"
+          ],
+          "7e9ebc0b-f48a-4f33-9a2e-8d54ea2603a0": [
+            "Reference"
+          ],
+          "3ca1d421-8159-4c49-976a-edf42f1df05f": [
+            "Reference"
+          ],
+          "141af8de-2cb1-4f01-9f8e-1bf8db0005fd": [
+            "Reference"
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Guid": "e82cfd39-6147-4700-8a21-a30dda5d4730",
+          "Hash": "z7MgouqJiyyD/do3j3LgVg=="
+        },
+        "$Value": {
+          "bfdf7e75-3676-4cd1-a47d-1ed564a2c879": [
+            "Reference"
+          ],
+          "7e9ebc0b-f48a-4f33-9a2e-8d54ea2603a0": [
+            "Reference"
+          ],
+          "3ca1d421-8159-4c49-976a-edf42f1df05f": [
+            "Reference"
+          ],
+          "141af8de-2cb1-4f01-9f8e-1bf8db0005fd": [
+            "Reference"
+          ]
+        }
+      }
+    ]
   }
 }
