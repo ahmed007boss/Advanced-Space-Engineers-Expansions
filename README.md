@@ -6,9 +6,9 @@
 
 ## 🌌 Vision
 
-When I play sandbox games like *Space Engineers* and many others, I often end up building impressive ships or bases—but with no deeper purpose. **ASEE²** was born from that feeling.
+When I play sandbox games like *Space Engineers* and many others, I often end up building impressive things but with no deeper purpose. **ASEE²** was inspired from that feeling.
 
-This mod introduces **long-term goals**, **multi-tier progressive systems**, and **meaningful reasons** to survive, explore, engineer, industrialize, and reshape entire worlds.
+This mod introduces **long-term goals**, **multi-tier progressive systems**, and **meaningful reasons** to survive, explore, extract , industrialize, engineer, research, and reshape entire worlds.
 
 In multiplayer, ASEE² creates natural **cooperation and competition** through:
 - **Scarce, exotic, and planet-unique resources**  
@@ -202,36 +202,32 @@ The result? A living universe where every engineer leaves a legacy—not just of
 **ASEE² is not yet started—but the vision is ready.**  
 We’re actively recruiting passionate contributors to bring this mod to life. No prior *Space Engineers* modding experience required—just enthusiasm, skill, and alignment with the project’s goals.
 
-### We’re looking for:
-- **C# Developers** (for gameplay systems, progression logic, contracts, research)  
-- **3D Modelers** (for new machines, suits, components, and environmental props)  
-- **Technical Artists / Texture Artists** (PBR materials, UI elements, visual effects)  
-- **Game Designers** (to help balance tiers, progression, and multiplayer dynamics)  
-- **Testers & Community Managers** (once development begins)
+> ⚠️ **Note on Scope**: All planned features are subject to change, delay, or cancellation based on *Space Engineers 2*’s final modding capabilities, engine limitations, and design decisions by Keen Software House. If Keen implements similar systems officially, the mod will adapt or de-prioritize overlapping features to avoid redundancy and ensure compatibility.
 
-### Why join?
-- Shape a **groundbreaking mod** from day one  
-- Work on deep, systemic gameplay—not just cosmetics  
-- Collaborative, respectful team environment  
-- Full credit in mod description, GitHub, and release notes  
+### To bring this mod to life, the following roles are needed:
+- **C# Developers** to build gameplay systems, progression logic, contracts, and research mechanics  
+- **3D Modelers** to create new machines, suits, components, and environmental props  
+- **Technical Artists / Texture Artists** for PBR materials, UI elements, and visual effects  
+- **Game Designers** to balance planetary tiers, progression pacing, and multiplayer dynamics  
+- **Testers & Community Managers** once development begins  
+
 
 👉 **Interested?**  
-Open an [Issue](https://github.com/your-username/ASEE2/issues) titled `“Join Team: [Your Role]”` with:
+Apply by sending a message in our dedicated recruitment channel:  
+[Join via Discord](https://discord.com/channels/1446423438435811341/1446423955006292070)  
+
+Include:  
 - Your experience  
 - Portfolio or GitHub link (if applicable)  
 - Why you’re excited about ASEE²  
-
-Let’s build the *Space Engineers 2* mod we’ve always wanted.
 
 ---
 
 ## 📜 License
 
-TBD (likely MIT or custom mod-friendly license).  
-*Space Engineers* is a trademark of Keen Software House. This project is **unofficial** and not affiliated with KSH.
+This project is licensed under the **MIT License**.  
+*Space Engineers* is a trademark of **Keen Software House**. This mod is **unofficial** and is not affiliated with, endorsed by, or associated with Keen Software House in any way.
 
 ---
 
 > **Project Status**: Pre-development (Vision & Planning Phase)  
-> **Target Game**: *Space Engineers 2* (at launch)  
-> **Working Title**: *Advanced Space Engineers Expansion (ASEE²)*
